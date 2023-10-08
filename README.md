@@ -12,7 +12,7 @@
 
 ## [Click to Participate](https://hacktoberfest.com/participation/)
 
-# Task 1.0
+# Let's Get Started! 
 
 Welcome to our Hacktoberfest 2023 contributing website! We're excited to have you on board. Follow the steps below to contribute and add your name, picture, LinkedIn profile, and GitHub profile to our contributors' list.
 
