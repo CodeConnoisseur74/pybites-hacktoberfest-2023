@@ -42,29 +42,7 @@ Welcome to our Hacktoberfest 2023 contributing website! We're excited to have yo
 
 ## 1. Add your profile picture to the folder
 
-Add a profile picture of your choice in `images/`. Accepted files are **png** and **jpg**, Ex.
-
-```
-images/<YOUR-USERNAME>.png
-```
-
 ## 2. Add your profile information
-
-Create a markdown file in your folder following the convention `participant/<YOUR-USERNAME>.md`. Ex.
-
-```
-participant/<YOUR-USERNAME>.md
-```
-
-Copy the next template into your file, delete the boilerplate data and fill the information with yours.
-
-```
----
-name: YOURNAME
-institution/company: INSTITUTION_NAME
-github:USERNAME
----
-```
 
 ## 3. Wait for Pull Request to merge
 
