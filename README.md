@@ -81,6 +81,6 @@ github:USERNAME
 
 To expedite approval of your pull request, (`Join our Pybites Circle Community`)🚀
 
-<tr><td align="center"><a href="https://github.com/"><kbd><img src=".github/" width="100px;" alt=""/></kbd><br /><sub><b>Ananya singh</b></sub></a><br /></td>
+<tr><td align="center"><a href="https://github.com/"><kbd><img src=".github/" width="100px;" alt=""/></kbd><br /><sub><b>Pybites Team</b></sub></a><br /></td>
 
 </tr>
